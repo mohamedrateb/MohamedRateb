@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm **Mohamed Rateb**
-**Software Engineering student & Backend Developer (.NET)**  
+**Software Engineering & Backend Developer (.NET)**  
 Crafting clean APIs. Solving hard problems. Shipping with pride. 🚀
 
 ---
 
-### 🔭 About Me
-Passionate about building reliable, maintainable back-end systems. I combine a strong foundation in **C++** and data structures with modern **.NET** practices to design APIs and applications that are simple, testable, and production-ready. I enjoy tackling challenging problems, optimizing performance, and writing clean code that others can read and extend easily.
-
 # 💫 About Me:
-Student
-
+Passionate about building reliable, maintainable back-end systems. I combine a strong foundation in **C++** and data structures with modern **.NET** practices to design APIs and applications that are simple, testable, and production-ready. I enjoy tackling challenging problems, optimizing performance, and writing clean code that others can read and extend easily.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-rateb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:se.mohamedrateb@gmail.com) 

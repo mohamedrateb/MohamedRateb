@@ -24,58 +24,21 @@ Crafting clean APIs. Solving hard problems. Shipping with pride. 🚀
 ### 🔭 About Me
 Passionate about building reliable, maintainable back-end systems. I combine a strong foundation in **C++** and data structures with modern **.NET** practices to design APIs and applications that are simple, testable, and production-ready. I enjoy tackling challenging problems, optimizing performance, and writing clean code that others can read and extend easily.
 
----
+# 💫 About Me:
+Student
 
-### 🧰 Tech & Skills
-- **Languages:** C++, C#  
-- **Frameworks / Backend:** .NET, ASP.NET Core, MVC, EF Core  
-- **APIs & Web:** RESTful API design, Authentication, Middleware  
-- **Databases:** MS SQL — schema design & optimization  
-- **Algorithms & DS:** Data Structures, Algorithms, Problem Solving  
-- **Tools:** Git, Visual Studio, Postman, Docker (learning)  
-- **Principles:** OOP, SOLID, Clean Architecture
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-rateb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:se.mohamedrateb@gmail.com) 
 
-### 🚀 Featured Projects
-- **Student Management System** — `https://github.com/mohamedrateb/student-management-system`  
-  A full-stack student management application built with **C#**, **.NET**, **EF Core**, and **MVC**. Implements REST APIs, role-based access control, and a relational **MS SQL** database. Focused on maintainability and clear separation of concerns.
-
-- **College (C++ / OOP Projects)** — `https://github.com/mohamedrateb/college-cpp`  
-  A collection of C++ projects and assignments that demonstrate OOP concepts, data structures, and algorithmic problem solving from coursework.
-
-> Want to add more repos or update repo URLs? Replace the links above with your real repo links.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedrateb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohamedrateb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrateb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mohamedrateb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 Currently
-- **Student** — continuing my Software Engineering studies.  
-- Actively improving the **Student Management System** (EF Core, API design, performance).
-
----
-
-### 💡 How I Work
-1. Understand the problem and sketch a simple design.  
-2. Break tasks into small, testable increments.  
-3. Implement incrementally with readable code and clear commits.
-
----
-
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/mohamed-rateb  
-- Email: se.mohamedrateb@gmail.com
-
----
-
-### 📊 GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedrateb&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrateb&layout=compact&theme=dark)
-
----
-
-### ⚡ Fun tag
-**Crafting clean APIs. Solving hard problems. Shipping with pride. 🚀**
-
----
-
-If you want any tiny tweaks (different tagline, another theme for the stats card, adding badges — e.g., LinkedIn/email badges, license badge, or a header image/banner), tell me which and I’ll give you the exact code to paste.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
